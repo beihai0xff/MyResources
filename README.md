@@ -1,8 +1,10 @@
 # My Resources 2019 我的资源整理2019版
 
-整理了一些学习资源和工具。好资源推荐请提交 [issues](https://github.com/wingsxdu/MyResources/issues)。
+整理了一些学习资源和工具。好资源推荐请提交 [**issues**](https://github.com/wingsxdu/MyResources/issues)。
 
 部分资源站在长城上看效果更佳
+
+![Gopher](https://github.com/wingsxdu/MyResources/img/COMING_SOON_GOPHER.png)
 
 ## 关于作者
 
@@ -10,7 +12,7 @@
 
 
 
-﻿## 目录
+## 目录
 
 * [学习资源](#学习资源)
   * [图书](#图书)
