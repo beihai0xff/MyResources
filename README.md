@@ -4,11 +4,31 @@
 
 部分资源站在长城上看效果更佳
 
-[TOC]
-
 ## 关于作者
 
 在校学生，前区块链、后端、数据库开发，现 docker&k8s 容器云服务。了解更多请前往：[**北海的博客**](https://www.wingsxdu.com/)
+
+
+
+﻿## 目录
+
+* [学习资源](#学习资源)
+  * [图书](#图书)
+  * [密码学](#密码学)
+  * [简单算法](#简单算法)
+  * [科普向](#科普向)
+  * [资源汇总导航](#资源汇总导航)
+* [教程](#教程)
+* [时事看法](#时事看法)
+  * [大学](#大学)
+  * [一些故事](#一些故事)
+  * [未来发展](#未来发展)
+* [生产力工具](#生产力工具)
+  * [在线工具](#在线工具)
+  * [软件](#软件)
+  * [硬件设备](#硬件设备)
+
+
 
 ## 学习资源
 
@@ -30,9 +50,7 @@
 
 [**《The Swift Programming Language》**](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)
 
-### 算法
-
-#### 密码学
+### 密码学
 
 得益于安全专家 Adam Langley 为 Go 创建了 **Crypto** 库
 
@@ -44,13 +62,13 @@
 
 [**彩虹表攻击**]()	过于久远原文链接找不到了
 
-#### 简单算法
+### 简单算法
 
 [**Golang 数据排序**](https://www.jianshu.com/p/1f42f2ba6c0d)	 很酷的一个特性，只要数据类型满足 sort.Interface 接口即可排序
 
 [**二叉树**](https://blog.csdn.net/weixin_38075257/article/details/87949296)	
 
-### 科普向文章
+### 科普向
 
 [**区块链漫画版介绍**]( https://blog.csdn.net/aa867734398/article/details/81591127 )
 
@@ -78,7 +96,7 @@
 
 ## 时事看法
 
-### 大学相关
+### 大学
 
 [**难道中国的大学教材真的不能编得好？**](https://www.zhihu.com/question/46885293?sort=created)	感同身受，不予评论
 
@@ -119,7 +137,7 @@ Markdown 编辑器：Typora
 
 壁纸：Dynamic theme UWP		自定义设置&保存Bing、Windows聚焦壁纸
 
-### 硬件
+### 硬件设备
 
 笔记本：HP Spectre X360 13.3 2019款
 
