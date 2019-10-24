@@ -30,8 +30,6 @@
 
 [**《The Swift Programming Language》**](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)
 
-
-
 ### 算法
 
 #### 密码学
@@ -60,9 +58,7 @@
 
 [**CDN是什么**](https://www.jianshu.com/p/57433bc34659)
 
-
-
-## 资源汇总导航
+### 资源汇总导航
 
 [**Go语言爱好者周刊，每周日发布**](https://github.com/polaris1119/golangweekly) 	分享一周值得了解、学习的 Go语言相关内容，每周日发布 
 
@@ -71,6 +67,12 @@
 [**Freely available programming books**](https://github.com/EbookFoundation/free-programming-books)	免费开源图书汇总
 
 [**GitHub中文排行榜 **](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)	 GitHub中文排行榜，帮助你发现高分优秀中文项目
+
+
+
+## 教程
+
+
 
 
 
@@ -103,5 +105,31 @@
 
 [Create and share beautiful images of your source code.](https://carbon.now.sh/)	输入代码生成图片
 
-### 硬件设备
+**华为云空间**	手机云备份
+
+### 软件
+
+IDE：主 Goland 辅 VS Code
+
+Markdown 编辑器：Typora 
+
+服务器：Xshell、WinSCP
+
+影音：网易云音乐 UWP
+
+壁纸：Dynamic theme UWP	Bing、Windows聚焦壁纸设置&保存
+
+### 硬件
+
+笔记本：HP Spectre X360 13.3 2019款
+
+键盘：Massdrop CTRL
+
+显示器： LG 29UM59A 21:9（打算换掉了） 
+
+耳机：森海塞尔 IE80S（隔音效果非常好）、赛睿 西伯利亚 X100
+
+移动硬盘：华为备咖存储 
+
+主机：Xbox 天蝎座 	~~生产力工具~~
 
