@@ -4,7 +4,7 @@
 
 部分资源站在长城上看效果更佳
 
-![Gopher](https://github.com/wingsxdu/MyResources/img/COMING_SOON_GOPHER.png)
+![Gopher](https://github.com/wingsxdu/MyResources/raw/master/img/COMING_SOON_GOPHER.png)
 
 ## 关于作者
 
