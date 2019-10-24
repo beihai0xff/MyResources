@@ -62,11 +62,11 @@
 
 [**Go语言爱好者周刊，每周日发布**](https://github.com/polaris1119/golangweekly) 	分享一周值得了解、学习的 Go语言相关内容，每周日发布 
 
-[**Awesome Go CN**](https://github.com/yinggaozhen/awesome-go-cn) 	 **[awesome-go](https://awesome-go.com/) 中文版** 
+[**Awesome Go CN**](https://github.com/yinggaozhen/awesome-go-cn) 	 **awesome-go**中文版
 
 [**Freely available programming books**](https://github.com/EbookFoundation/free-programming-books)	免费开源图书汇总
 
-[**GitHub中文排行榜 **](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)	 GitHub中文排行榜，帮助你发现高分优秀中文项目
+[**GitHub中文排行榜**](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)	 GitHub中文排行榜，帮助你发现高分优秀中文项目
 
 
 
@@ -101,11 +101,11 @@
 
 ### 在线工具
 
-[Mermade Swagger 2.0 to OpenAPI 3.0.0 converter](https://mermade.org.uk/openapi-converter)	Swagger OpenAPI 在线转换
+[**Mermade Swagger 2.0 to OpenAPI 3.0.0 converter**](https://mermade.org.uk/openapi-converter)	Swagger OpenAPI 在线转换
 
-[Create and share beautiful images of your source code.](https://carbon.now.sh/)	输入代码生成图片
+[**Create and share beautiful images of your source code**](https://carbon.now.sh/)	输入代码生成图片
 
-**华为云空间**	手机云备份
+**华为云空间**		手机云备份
 
 ### 软件
 
@@ -117,7 +117,7 @@ Markdown 编辑器：Typora
 
 影音：网易云音乐 UWP
 
-壁纸：Dynamic theme UWP	Bing、Windows聚焦壁纸设置&保存
+壁纸：Dynamic theme UWP		自定义设置&保存Bing、Windows聚焦壁纸
 
 ### 硬件
 
