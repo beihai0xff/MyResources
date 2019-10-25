@@ -38,17 +38,12 @@
 
 - [**《A tour of go》**](https://tour.go-zh.org/welcome/1) Golang 初识官方教程
 - [**《Go语言标准库》**](https://books.studygolang.com/The-Golang-Standard-Library-by-Example/)未完成的中文版，貌似已经放弃了
-
 - [**《Go 语言高级编程》**](https://chai2010.cn/advanced-go-programming-book)开源图书
-
+- [**《build-web-application-with-golang》**](https://github.com/astaxie/build-web-application-with-golang)开源图书
 - [**《Docker — 从入门到实践》**]( https://yeasy.gitbooks.io/docker_practice/ )开源图书
-
 - **《Go 并发编程实战》**
-
 - **《The Go Programming Language》**
-
 - **《The C Programming Language》**
-
 - [**《The Swift Programming Language》**](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)
 
 ### 密码学
@@ -103,7 +98,7 @@
 
 ### 一些故事
 
-- [**B站源码泄露事件后**](https://studygolang.com/articles/19964)	Go语言的前景，原链接失效
+- [**B站源码泄露事件后**](https://studygolang.com/articles/19964)	Go语言的前景分析，原链接失效
 - [**51信用卡事件**](https://weibointl.api.weibo.cn/share/98444807.html?weibo_id=4429906211443523
   )	算是商战案例，警戒后人
 
@@ -112,6 +107,7 @@
 
 - [**六个字概括三季度经济数据**]()	已被河蟹
 - [**工作难找？**](https://mp.weixin.qq.com/s/r_OQrhj236aqXUNZRGXY9w)	润总课程，强烈推荐
+- [**华为的鸿蒙操作系统，会取代安卓吗？**](https://mp.weixin.qq.com/s/qWotV25jJX23n9vWPXlsoQ)打败马车的，不是更快的马车，是火车
 
 
 
@@ -129,13 +125,10 @@
 ### 软件
 
 - IDE：主 Goland 辅 VS Code
-
 - Markdown 编辑器：Typora 
-
+- 日程&任务管理：Microsoft To Do
 - 服务器：Xshell、WinSCP
-
 - 影音：网易云音乐 UWP
-
 - 壁纸：Dynamic theme UWP		自定义设置&保存Bing、Windows聚焦壁纸
 
 
