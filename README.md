@@ -68,8 +68,8 @@
 
 - [**区块链漫画版介绍**]( https://blog.csdn.net/aa867734398/article/details/81591127 )
 - [**10分钟看懂Docker和K8S**](https://www.jianshu.com/p/f1f94c6968f5)
-
 - [**CDN是什么**](https://www.jianshu.com/p/57433bc34659)
+- [**鸿蒙OS微内核**](https://blog.csdn.net/BEYONDMA/article/details/101915785)
 
 
 ### 资源汇总导航
