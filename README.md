@@ -86,7 +86,7 @@
 
 ## 教程
 
-
+- [**[Windows10]Win10如何获取最高管理员权限**](https://blog.csdn.net/yanhanhui1/article/details/82746357)	 默认以管理员启动
 
 
 
