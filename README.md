@@ -87,7 +87,7 @@
 
 - [**[Windows10]Win10如何获取最高管理员权限**](https://blog.csdn.net/yanhanhui1/article/details/82746357)	 默认以管理员启动
 - [**使用 git hook 实现服务器代码自动部署**](https://juejin.im/post/5b462515f265da0f8c02a2ef)	
-
+- [**ubuntu实体机安装及其基础知识**](https://www.zdaiot.com/Linux/%E7%BB%B4%E6%8A%A4/ubuntu%E5%AE%9E%E4%BD%93%E6%9C%BA%E5%AE%89%E8%A3%85%E5%8F%8A%E5%85%B6%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/)	 Ubuntu 实体机安装,关于双系统的一些问题也可以在这里找到
 
 
 ## 时事看法
