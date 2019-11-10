@@ -15,7 +15,7 @@
 ## 目录
 
 * [学习资源](#学习资源)
-  * [图书](#图书)
+  * [书单](#书单)
   * [密码学](#密码学)
   * [简单算法](#简单算法)
   * [科普向](#科普向)
@@ -34,17 +34,19 @@
 
 ## 学习资源
 
-### 图书
+### 书单
 
-- [**《A tour of go》**](https://tour.go-zh.org/welcome/1) Golang 初识官方教程
-- [**《Go语言标准库》**](https://books.studygolang.com/The-Golang-Standard-Library-by-Example/)未完成的中文版，貌似已经放弃了
-- [**《Go 语言高级编程》**](https://chai2010.cn/advanced-go-programming-book)开源图书
-- [**《build-web-application-with-golang》**](https://github.com/astaxie/build-web-application-with-golang)开源图书
-- [**《Docker — 从入门到实践》**]( https://yeasy.gitbooks.io/docker_practice/ )开源图书
-- **《Go 并发编程实战》**
-- **《The Go Programming Language》**
-- **《The C Programming Language》**
+- [**《A tour of go》**](https://tour.go-zh.org/welcome/1) Golang 官方基础教程
+- [**《Go语言标准库》**](https://books.studygolang.com/The-Golang-Standard-Library-by-Example/)未完成的中文版，貌似已经放弃了  10月
+- [**《Go 语言高级编程》**](https://chai2010.cn/advanced-go-programming-book)开源图书  5~6月
+- [**《build-web-application-with-golang》**](https://github.com/astaxie/build-web-application-with-golang)开源图书  10月
+- [**《Docker — 从入门到实践》**]( https://yeasy.gitbooks.io/docker_practice/ )开源图书  10月
+- **《Go 并发编程实战》**  9月
+- **《The Go Programming Language》**  9月
+- **《The C Programming Language》**  10月
 - [**《The Swift Programming Language》**](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)
+- **《汇编语言 王爽》**  11.4 ~ 11.6
+- **《写给大家看的设计书》**  11.10
 
 ### 密码学
 
@@ -94,7 +96,7 @@
 
 ### 大学
 
-- [**难道中国的大学教材真的不能编得好？**](https://www.zhihu.com/question/46885293?sort=created)	感同身受，不予评论
+- [**难道中国的大学教材真的不能编得好？**](https://www.zhihu.com/question/46885293?sort=created)	不予评论
 
 ### 一些故事
 
@@ -126,7 +128,7 @@
 
 - IDE：主 Goland 辅 VS Code
 - Markdown 编辑器：Typora 
-- 日程&任务管理：Microsoft To Do
+- 日程 & 任务管理：Microsoft To Do
 - 服务器：Xshell、WinSCP
 - 影音：网易云音乐 UWP
 - 壁纸：Dynamic theme UWP		自定义设置&保存Bing、Windows聚焦壁纸
