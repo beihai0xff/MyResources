@@ -20,6 +20,7 @@
   * [简单算法](#简单算法)
   * [科普向](#科普向)
   * [资源汇总导航](#资源汇总导航)
+  * [博客推荐](#博客推荐)
 * [教程](#教程)
 * [时事看法](#时事看法)
   * [大学](#大学)
@@ -54,9 +55,7 @@
 
 - [**对称、非对称加密**]()	过于久远原文链接找不到了
 - [**Hash 哈希算法 （不是大学里的那个hash散列表）**]()	过于久远原文链接找不到了
-
 - [**PBKDF2 基于密码的密钥生成**](https://blog.csdn.net/xy010902100449/article/details/52078767)	过于久远原文链接找不到了，先看这个
-
 - [**彩虹表攻击**]()	过于久远原文链接找不到了
 
 
@@ -78,18 +77,19 @@
 
 - [**Go语言爱好者周刊，每周日发布**](https://github.com/polaris1119/golangweekly) 	分享一周值得了解、学习的 Go语言相关内容，每周日发布 
 - [**Awesome Go CN**](https://github.com/yinggaozhen/awesome-go-cn) 	 **awesome-go**中文版
-
 - [**Freely available programming books**](https://github.com/EbookFoundation/free-programming-books)	免费开源图书汇总
-
 - [**GitHub中文排行榜**](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)	 GitHub中文排行榜，帮助你发现高分优秀中文项目
 
+### 博客推荐
+- [**draveness.me**](https://draveness.me/)	 优秀博主，文章十分出色，强烈推荐关注
 
 
 
 ## 教程
 
-
-
+- [**[Windows10]Win10如何获取最高管理员权限**](https://blog.csdn.net/yanhanhui1/article/details/82746357)	 默认以管理员启动
+- [**使用 git hook 实现服务器代码自动部署**](https://juejin.im/post/5b462515f265da0f8c02a2ef)	
+- [**ubuntu实体机安装及其基础知识**](https://www.zdaiot.com/Linux/%E7%BB%B4%E6%8A%A4/ubuntu%E5%AE%9E%E4%BD%93%E6%9C%BA%E5%AE%89%E8%A3%85%E5%8F%8A%E5%85%B6%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/)	 Ubuntu 实体机安装,关于双系统的一些问题也可以在这里找到
 
 
 ## 时事看法
