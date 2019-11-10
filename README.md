@@ -42,7 +42,8 @@
 - [**《Go 语言高级编程》**](https://chai2010.cn/advanced-go-programming-book)开源图书  5~6月
 - [**《build-web-application-with-golang》**](https://github.com/astaxie/build-web-application-with-golang)开源图书  10月
 - [**《Docker — 从入门到实践》**]( https://yeasy.gitbooks.io/docker_practice/ )开源图书  10月
-- **《Go 并发编程实战》**  9月
+- **《平凡的世界》**  9月
+- **《Go 并发编程实战》**  10月
 - **《The Go Programming Language》**  9月
 - **《The C Programming Language》**  10月
 - [**《The Swift Programming Language》**](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)
