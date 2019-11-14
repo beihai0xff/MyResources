@@ -38,17 +38,17 @@
 ### 书单
 
 - [**《A tour of go》**](https://tour.go-zh.org/welcome/1) Golang 官方基础教程
-- [**《Go语言标准库》**](https://books.studygolang.com/The-Golang-Standard-Library-by-Example/)未完成的中文版，貌似已经放弃了  10月
 - [**《Go 语言高级编程》**](https://chai2010.cn/advanced-go-programming-book)开源图书  5~6月
-- [**《build-web-application-with-golang》**](https://github.com/astaxie/build-web-application-with-golang)开源图书  10月
-- [**《Docker — 从入门到实践》**]( https://yeasy.gitbooks.io/docker_practice/ )开源图书  10月
 - **《平凡的世界》**  9月
-- **《Go 并发编程实战》**  10月
 - **《The Go Programming Language》**  9月
 - **《The C Programming Language》**  10月
 - [**《The Swift Programming Language》**](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)
-- **《汇编语言 王爽》**  11.4 ~ 11.6
-- **《写给大家看的设计书》**  11.10
+- [**《Go语言标准库》**](https://books.studygolang.com/The-Golang-Standard-Library-by-Example/)未完成的中文版，作者已经放弃了  10月
+- [**《build-web-application-with-golang》**](https://github.com/astaxie/build-web-application-with-golang)开源图书  10月
+- **《Go 并发编程实战》**  10月
+- **《汇编语言 王爽》**  11月
+- **《写给大家看的设计书》**  11月
+- [**《Docker — 从入门到实践》**]( https://yeasy.gitbooks.io/docker_practice/ )开源图书  
 
 ### 密码学
 
@@ -121,7 +121,7 @@
 
 - [**Mermade Swagger 2.0 to OpenAPI 3.0.0 converter**](https://mermade.org.uk/openapi-converter)	Swagger OpenAPI 在线转换
 - [**Create and share beautiful images of your source code**](https://carbon.now.sh/)	输入代码生成图片
-
+- [**在线Matlab**](https://octave-online.net/)	用于课程实验、报告等，没必要安装那么胖的桌面应用
 - **华为云空间**		手机云备份
 
 
