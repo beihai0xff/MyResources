@@ -127,12 +127,13 @@
 
 ### 软件
 
-- IDE：主 Goland 辅 VS Code
+- IDE：主 Goland 辅 Visual Studio Code
+- 轻量级工程：Kate		打开一些不常见格式的文件
 - Markdown 编辑器：Typora 
-- 日程 & 任务管理：Microsoft To Do
+- 日程 & 任务管理：Microsoft To Do UWP
 - 服务器：Xshell、WinSCP
 - 影音：网易云音乐 UWP
-- 壁纸：Dynamic theme UWP		自定义设置&保存Bing、Windows聚焦壁纸
+- 壁纸：Dynamic theme UWP		自定义设置&保存 Bing、Windows 聚焦壁纸
 
 
 ### 硬件设备
