@@ -37,33 +37,33 @@
 
 ### 书单
 
-- [**《A tour of go》**](https://tour.go-zh.org/welcome/1) Golang 官方基础教程
-- [**《Go 语言高级编程》**](https://chai2010.cn/advanced-go-programming-book)开源图书  5~6月
-- **《平凡的世界》**  9月
-- **《The Go Programming Language》**  9月
-- **《The C Programming Language》**  10月
+- [**《A tour of go》**](https://tour.go-zh.org/welcome/1) 		Golang 官方基础教程
+- [**《Go 语言高级编程》**](https://chai2010.cn/advanced-go-programming-book)		开源图书  5~6月
+- **《平凡的世界》** 		9月
+- **《The Go Programming Language》**		9月
+- **《The C Programming Language》**		10月
 - [**《The Swift Programming Language》**](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)
-- [**《Go语言标准库》**](https://books.studygolang.com/The-Golang-Standard-Library-by-Example/)未完成的中文版，作者已经放弃了  10月
-- [**《build-web-application-with-golang》**](https://github.com/astaxie/build-web-application-with-golang)开源图书  10月
-- **《Go 并发编程实战》**  10月
-- **《汇编语言 王爽》**  11月
-- **《写给大家看的设计书》**  11月
-- [**《Docker — 从入门到实践》**]( https://yeasy.gitbooks.io/docker_practice/ )开源图书  
+- [**《Go语言标准库》**](https://books.studygolang.com/The-Golang-Standard-Library-by-Example/)		未完成的中文版，作者已经放弃了  10月
+- [**《build-web-application-with-golang》**](https://github.com/astaxie/build-web-application-with-golang)		开源图书  10月
+- **《Go 并发编程实战》**		10月
+- **《汇编语言 王爽》**		11月
+- **《写给大家看的设计书》**		11月
+- [**《Docker — 从入门到实践》**]( https://yeasy.gitbooks.io/docker_practice/ )		开源图书 
 
 ### 密码学
 
 得益于安全专家 Adam Langley 为 Go 创建了 **Crypto** 库
 
-- [**对称、非对称加密**]()	过于久远原文链接找不到了
-- [**Hash 哈希算法 （不是大学里的那个hash散列表）**]()	过于久远原文链接找不到了
-- [**PBKDF2 基于密码的密钥生成**](https://blog.csdn.net/xy010902100449/article/details/52078767)	过于久远原文链接找不到了，先看这个
-- [**彩虹表攻击**]()	过于久远原文链接找不到了
+- [**对称、非对称加密**]()		过于久远原文链接找不到了
+- [**Hash 哈希算法 （不是大学里的那个hash散列表）**]()		过于久远原文链接找不到了
+- [**PBKDF2 基于密码的密钥生成**](https://blog.csdn.net/xy010902100449/article/details/52078767)		原文链接找不到了，先看这个
+- [**彩虹表攻击**]()		过于久远原文链接找不到了
 
 
 ### 简单算法
 
-- [**Golang 数据排序**](https://www.jianshu.com/p/1f42f2ba6c0d)	 很酷的一个特性，只要数据类型满足 sort.Interface 接口即可排序
-- [**二叉树**](https://blog.csdn.net/weixin_38075257/article/details/87949296)	
+- [**Golang 数据排序**](https://www.jianshu.com/p/1f42f2ba6c0d)		很酷的一个特性，只要数据类型满足 sort.Interface 接口即可排序
+- [**二叉树**](https://blog.csdn.net/weixin_38075257/article/details/87949296)
 
 
 ### 科普向
@@ -76,41 +76,41 @@
 
 ### 资源汇总导航
 
-- [**Go语言爱好者周刊，每周日发布**](https://github.com/polaris1119/golangweekly) 	分享一周值得了解、学习的 Go语言相关内容，每周日发布 
-- [**Awesome Go CN**](https://github.com/yinggaozhen/awesome-go-cn) 	 **awesome-go**中文版
-- [**Freely available programming books**](https://github.com/EbookFoundation/free-programming-books)	免费开源图书汇总
-- [**GitHub中文排行榜**](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)	 GitHub中文排行榜，帮助你发现高分优秀中文项目
+- [**Go语言爱好者周刊，每周日发布**](https://github.com/polaris1119/golangweekly)		分享一周值得了解、学习的 Go语言相关内容，每周日发布 
+- [**Awesome Go CN**](https://github.com/yinggaozhen/awesome-go-cn)		 **awesome-go**中文版
+- [**Freely available programming books**](https://github.com/EbookFoundation/free-programming-books)		免费开源图书汇总
+- [**GitHub中文排行榜**](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)		 GitHub中文排行榜，帮助你发现高分优秀中文项目
 
 ### 博客推荐
-- [**draveness.me**](https://draveness.me/)	 优秀博主，文章十分出色，强烈推荐关注
+- [**draveness.me**](https://draveness.me/)		优秀博主，文章十分出色，强烈推荐关注
 
 
 
 ## 教程
 
-- [**[Windows10]Win10如何获取最高管理员权限**](https://blog.csdn.net/yanhanhui1/article/details/82746357)	 默认以管理员启动
+- [**[Windows10]Win10如何获取最高管理员权限**](https://blog.csdn.net/yanhanhui1/article/details/82746357)		默认以管理员启动
 - [**使用 git hook 实现服务器代码自动部署**](https://juejin.im/post/5b462515f265da0f8c02a2ef)	
-- [**ubuntu实体机安装及其基础知识**](https://www.zdaiot.com/Linux/%E7%BB%B4%E6%8A%A4/ubuntu%E5%AE%9E%E4%BD%93%E6%9C%BA%E5%AE%89%E8%A3%85%E5%8F%8A%E5%85%B6%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/)	 Ubuntu 实体机安装,关于双系统的一些问题也可以在这里找到
+- [**ubuntu实体机安装及其基础知识**](https://www.zdaiot.com/Linux/%E7%BB%B4%E6%8A%A4/ubuntu%E5%AE%9E%E4%BD%93%E6%9C%BA%E5%AE%89%E8%A3%85%E5%8F%8A%E5%85%B6%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/)		Ubuntu 实体机安装,关于双系统的一些问题也可以在这里找到
 
 
 ## 时事看法
 
 ### 大学
 
-- [**难道中国的大学教材真的不能编得好？**](https://www.zhihu.com/question/46885293?sort=created)	不予评论
+- [**难道中国的大学教材真的不能编得好？**](https://www.zhihu.com/question/46885293?sort=created)		不予评论
 
 ### 一些故事
 
-- [**B站源码泄露事件后**](https://studygolang.com/articles/19964)	Go语言的前景分析，原链接失效
+- [**B站源码泄露事件后**](https://studygolang.com/articles/19964)		Go语言的前景分析，原链接失效
 - [**51信用卡事件**](https://weibointl.api.weibo.cn/share/98444807.html?weibo_id=4429906211443523
-  )	算是商战案例，警戒后人
+  )		算是商战案例，警戒后人
 
 
 ### 未来发展
 
-- [**六个字概括三季度经济数据**]()	已被河蟹
-- [**工作难找？**](https://mp.weixin.qq.com/s/r_OQrhj236aqXUNZRGXY9w)	润总课程，强烈推荐
-- [**华为的鸿蒙操作系统，会取代安卓吗？**](https://mp.weixin.qq.com/s/qWotV25jJX23n9vWPXlsoQ)打败马车的，不是更快的马车，是火车
+- [**六个字概括三季度经济数据**]()		已被河蟹
+- [**工作难找？**](https://mp.weixin.qq.com/s/r_OQrhj236aqXUNZRGXY9w)		润总课程，强烈推荐
+- [**华为的鸿蒙操作系统，会取代安卓吗？**](https://mp.weixin.qq.com/s/qWotV25jJX23n9vWPXlsoQ)		打败马车的，不是更快的马车，是火车
 
 
 
@@ -119,9 +119,10 @@
 
 ### 在线工具
 
-- [**Mermade Swagger 2.0 to OpenAPI 3.0.0 converter**](https://mermade.org.uk/openapi-converter)	Swagger OpenAPI 在线转换
+- [**Mermade Swagger 2.0 to OpenAPI 3.0.0 converter**](https://mermade.org.uk/openapi-converter)		Swagger OpenAPI 在线转换
 - [**Create and share beautiful images of your source code**](https://carbon.now.sh/)	输入代码生成图片
-- [**在线Matlab**](https://octave-online.net/)	用于课程实验、报告等，没必要安装那么胖的桌面应用
+- [**在线 Matlab**](https://octave-online.net/)		用于课程实验、报告等，没必要安装那么胖的桌面应用
+- [**Matlab 官方 Web 版**](https://matlab.mathworks.com/)		同上
 - **华为云空间**		手机云备份
 
 
