@@ -72,6 +72,8 @@
 - [**10分钟看懂Docker和K8S**](https://www.jianshu.com/p/f1f94c6968f5)
 - [**CDN是什么**](https://www.jianshu.com/p/57433bc34659)
 - [**鸿蒙OS微内核**](https://blog.csdn.net/BEYONDMA/article/details/101915785)
+- [**一文详解微服务架构**](https://www.cnblogs.com/skabyy/p/11396571.html)
+- [**go 学习笔记之仅仅需要一个示例就能讲清楚什么闭包**]( https://mp.weixin.qq.com/s/ZIIBvCuDgrsdNbQXBeAR9A )
 
 
 ### 资源汇总导航
