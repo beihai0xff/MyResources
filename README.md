@@ -106,7 +106,7 @@ Win 上的软件我会优先在 Mocrosoft Store UWP 找
 
 #### Android
 
-日常使用的软件就不写了，我都是下载的 Play Store 版
+日常使用的软件就不写了，优先下载的 Play Store 版
 
 - Microsoft To Do：日程 & 任务管理，跨平台同步
 - Outlook：邮件、日历、OneDrive 等跨平台同步
