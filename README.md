@@ -43,8 +43,6 @@
 - 《从零到一》
 - 《活着》
 
-- [《Docker — 从入门到实践》]( https://yeasy.gitbooks.io/docker_practice/ )
-
 ## 生产力工具
 
 ### 硬件设备
@@ -100,7 +98,6 @@ Win 上的软件我会优先在 Mocrosoft Store UWP 找
 - QQ TIM 版
 - Windows Terminal：微软家的命令行终端，还是测试版
 - WSL2 + Ubuntu：测试版
-
 - GifCam：录屏为 Gif
 - BandZip：压缩软件
 
