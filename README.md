@@ -1,149 +1,119 @@
-# My Resources 2019 我的资源整理2019版
+# My Resources 我的资源整理
 
-整理了一些学习资源和工具。好资源推荐请提交 [**issues**](https://github.com/wingsxdu/MyResources/issues)。
-
-部分资源站在长城上看效果更佳
+整理了一些学习资源和工具。
 
 ![Gopher](https://github.com/wingsxdu/MyResources/raw/master/img/COMING_SOON_GOPHER.png)
 
 ## 关于作者
 
-在校学生，前区块链、后端、数据库开发，现 docker&k8s 容器云服务。了解更多请前往：[**北海的博客**](https://www.wingsxdu.com/)
-
-
+在校学生，了解更多请前往博客：[**wingsxdu.com**](https://www.wingsxdu.com/)
 
 ## 目录
 
-* [学习资源](#学习资源)
-  * [书单](#书单)
-  * [密码学](#密码学)
-  * [简单算法](#简单算法)
-  * [科普向](#科普向)
-  * [资源汇总导航](#资源汇总导航)
-  * [博客推荐](#博客推荐)
-* [教程](#教程)
-* [时事看法](#时事看法)
-  * [大学](#大学)
-  * [一些故事](#一些故事)
-  * [未来发展](#未来发展)
-* [生产力工具](#生产力工具)
-  * [在线工具](#在线工具)
-  * [软件](#软件)
-  * [硬件设备](#硬件设备)
+* [书单](#书单)
+* [生产力工具](###生产力工具)
+  * [在线工具](###在线工具)
+  * [硬件设备](###硬件设备)
+  * [服务订阅](###服务订阅)
+  * [软件](###软件)
+    * [UWP](#####UWP)
+    * [WIN](#####WIN)
+    * [Android](#####Andriod)
 
+## 书单
 
+#### 2019
 
-## 学习资源
+- [《A tour of go》](https://tour.go-zh.org/welcome/1)
+- [《Go 语言高级编程》](https://chai2010.cn/advanced-go-programming-book)
+- 《平凡的世界》
+- 《The Go Programming Language》
+- 《The C Programming Language》
+- [《Go语言标准库》](https://books.studygolang.com/The-Golang-Standard-Library-by-Example/)
+- [《build-web-application-with-golang》](https://github.com/astaxie/build-web-application-with-golang)
+- 《Go 并发编程实战》
+- 《汇编语言 王爽》
+- 《写给大家看的设计书》
+- 《深度工作》
+- 《深入理解计算机系统》
+- 《人类简史》
+- 《Redis 入门指南》
+- 《Redis 设计与实现》
+- 《Redis In Action》
+- 《从零到一》
+- 《活着》
 
-### 书单
-
-- [**《A tour of go》**](https://tour.go-zh.org/welcome/1) 		Golang 官方基础教程
-- [**《Go 语言高级编程》**](https://chai2010.cn/advanced-go-programming-book)		开源图书  5~6月
-- **《平凡的世界》** 		9月
-- **《The Go Programming Language》**		9月
-- **《The C Programming Language》**		10月
-- [**《The Swift Programming Language》**](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)
-- [**《Go语言标准库》**](https://books.studygolang.com/The-Golang-Standard-Library-by-Example/)		未完成的中文版，作者已经放弃了  10月
-- [**《build-web-application-with-golang》**](https://github.com/astaxie/build-web-application-with-golang)		开源图书  10月
-- **《Go 并发编程实战》**		10月
-- **《汇编语言 王爽》**		11月
-- **《写给大家看的设计书》**		11月
-- [**《Docker — 从入门到实践》**]( https://yeasy.gitbooks.io/docker_practice/ )		开源图书 
-
-### 密码学
-
-得益于安全专家 Adam Langley 为 Go 创建了 **Crypto** 库
-
-- [**对称、非对称加密**]()		过于久远原文链接找不到了
-- [**Hash 哈希算法 （不是大学里的那个hash散列表）**]()		过于久远原文链接找不到了
-- [**PBKDF2 基于密码的密钥生成**](https://blog.csdn.net/xy010902100449/article/details/52078767)		原文链接找不到了，先看这个
-- [**彩虹表攻击**]()		过于久远原文链接找不到了
-
-
-### 简单算法
-
-- [**Golang 数据排序**](https://www.jianshu.com/p/1f42f2ba6c0d)		很酷的一个特性，只要数据类型满足 sort.Interface 接口即可排序
-- [**二叉树**](https://blog.csdn.net/weixin_38075257/article/details/87949296)
-
-
-### 科普向
-
-- [**区块链漫画版介绍**]( https://blog.csdn.net/aa867734398/article/details/81591127 )
-- [**10分钟看懂Docker和K8S**](https://www.jianshu.com/p/f1f94c6968f5)
-- [**CDN是什么**](https://www.jianshu.com/p/57433bc34659)
-- [**鸿蒙OS微内核**](https://blog.csdn.net/BEYONDMA/article/details/101915785)
-- [**一文详解微服务架构**](https://www.cnblogs.com/skabyy/p/11396571.html)
-- [**go 学习笔记之仅仅需要一个示例就能讲清楚什么闭包**]( https://mp.weixin.qq.com/s/ZIIBvCuDgrsdNbQXBeAR9A )
-
-
-### 资源汇总导航
-
-- [**Go语言爱好者周刊，每周日发布**](https://github.com/polaris1119/golangweekly)		分享一周值得了解、学习的 Go语言相关内容，每周日发布 
-- [**Awesome Go CN**](https://github.com/yinggaozhen/awesome-go-cn)		 **awesome-go**中文版
-- [**Freely available programming books**](https://github.com/EbookFoundation/free-programming-books)		免费开源图书汇总
-- [**GitHub中文排行榜**](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)		 GitHub中文排行榜，帮助你发现高分优秀中文项目
-
-### 博客推荐
-- [**draveness.me**](https://draveness.me/)		优秀博主，文章十分出色，强烈推荐关注
-
-
-
-## 教程
-
-- [**[Windows10]Win10如何获取最高管理员权限**](https://blog.csdn.net/yanhanhui1/article/details/82746357)		默认以管理员启动
-- [**使用 git hook 实现服务器代码自动部署**](https://juejin.im/post/5b462515f265da0f8c02a2ef)	
-- [**ubuntu实体机安装及其基础知识**](https://www.zdaiot.com/Linux/%E7%BB%B4%E6%8A%A4/ubuntu%E5%AE%9E%E4%BD%93%E6%9C%BA%E5%AE%89%E8%A3%85%E5%8F%8A%E5%85%B6%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/)		Ubuntu 实体机安装,关于双系统的一些问题也可以在这里找到
-
-
-## 时事看法
-
-### 大学
-
-- [**难道中国的大学教材真的不能编得好？**](https://www.zhihu.com/question/46885293?sort=created)		不予评论
-
-### 一些故事
-
-- [**B站源码泄露事件后**](https://studygolang.com/articles/19964)		Go语言的前景分析，原链接失效
-- [**51信用卡事件**](https://weibointl.api.weibo.cn/share/98444807.html?weibo_id=4429906211443523
-  )		算是商战案例，警戒后人
-
-
-### 未来发展
-
-- [**六个字概括三季度经济数据**]()		已被河蟹
-- [**工作难找？**](https://mp.weixin.qq.com/s/r_OQrhj236aqXUNZRGXY9w)		润总课程，强烈推荐
-- [**华为的鸿蒙操作系统，会取代安卓吗？**](https://mp.weixin.qq.com/s/qWotV25jJX23n9vWPXlsoQ)		打败马车的，不是更快的马车，是火车
-
-
-
+- [《Docker — 从入门到实践》]( https://yeasy.gitbooks.io/docker_practice/ )
 
 ## 生产力工具
 
-### 在线工具
-
-- [**Mermade Swagger 2.0 to OpenAPI 3.0.0 converter**](https://mermade.org.uk/openapi-converter)		Swagger OpenAPI 在线转换
-- [**Create and share beautiful images of your source code**](https://carbon.now.sh/)	输入代码生成图片
-- [**在线 Matlab**](https://octave-online.net/)		用于课程实验、报告等，没必要安装那么胖的桌面应用
-- [**Matlab 官方 Web 版**](https://matlab.mathworks.com/)		同上
-- **华为云空间**		手机云备份
-
-
-### 软件
-
-- IDE：主 Goland 辅 Visual Studio Code
-- 轻量级工程：Kate		打开一些不常见格式的文件
-- Markdown 编辑器：Typora 
-- 日程 & 任务管理：Microsoft To Do UWP
-- 服务器：Xshell、WinSCP
-- 影音：网易云音乐 UWP
-- 壁纸：Dynamic theme UWP		自定义设置&保存 Bing、Windows 聚焦壁纸
-
-
-### 硬件设备
+#### 硬件设备
 
 - 笔记本：HP Spectre X360 13.3 2019款
 - 键盘：Massdrop CTRL
 - 显示器： LG 29UM59A 21:9（打算换掉了） 
 - 耳机：森海塞尔 IE80S（隔音效果非常好）、赛睿 西伯利亚 X100
+- 手机：华为 Mate 30 Pro 5G
 - 移动硬盘：华为备咖存储 
 - 主机：Xbox 天蝎座 	~~生产力工具~~
+
+#### 在线工具
+
+- [Mermade Swagger 2.0 to OpenAPI 3.0.0 converter](https://mermade.org.uk/openapi-converter)		Swagger OpenAPI 在线转换
+- [Create and share beautiful images of your source code](https://carbon.now.sh/)		输入代码生成图片
+- [Matlab 官方 Web 版](https://matlab.mathworks.com/)		用于课程实验、报告等，没必要安装那么胖的桌面应用
+- [Process On](https://processon.com/)		在线绘图工具，有时画图用
+
+#### 服务订阅
+
+- 华为云空间：手机云备份
+- Office 365
+- Jetbrains Account：学生认证，白嫖
+- Adobe Creative Cloud：也是免费的云空间，一些模板放在上面
+- 网易云音乐、哔哩哔哩会员
+
+#### 软件
+
+###### UWP
+
+Win 上的软件我会优先在 Mocrosoft Store UWP 找
+
+- Kate 文本编辑器 UWP
+- Dynamic theme UWP：自定义设置&保存 Bing、Windows 聚焦壁纸
+- Microsoft To Do UWP：日程 & 任务管理，跨平台同步
+- Drawboard PDF：很棒的 PDF 应用
+- Book Bazaar Reader：电子书阅读器
+- 网易云音乐 UWP
+- 微信 UWP
+- Pomy：护眼小工具
+
+###### WIN
+
+- Jetbrains Goland：主要使用的 IDE 工具
+- Visual Studio Code：辅助使用的文本编辑器
+- Typora ：Markdown 编辑器
+- Xshell、WinSCP：连接服务器
+- Adobe XD：原型设计软件，我拿来画图用的...
+- Office 365 + OneDrive
+- Win10 自带的邮件、日历
+- Chromiun Edge + Chrome
+- QQ TIM 版
+- Windows Terminal：微软家的命令行终端，还是测试版
+- WSL2 + Ubuntu：测试版
+
+- GifCam：录屏为 Gif
+- BandZip：压缩软件
+
+###### Android
+
+日常使用的软件就不写了，我都是下载的 Play Store 版
+
+- Microsoft To Do：日程 & 任务管理，跨平台同步
+- Outlook：邮件、日历、OneDrive 等跨平台同步
+- Office：微软开发的一款移动应用，集成 Word、Excel、PDF 等，可用 OneDrive 跨平台同步
+- 微软翻译：翻译软件
+- Edge + Chrome：手机端的 Edge 还不是 Chromiun 内核，但是可以同步 + 在 PC 上继续阅读
+- LeetCode
+- 什么值得买
+- ~~微博国际版、哔哩哔哩~~：为了减少手机使用时间，已经卸载一段时间了
+
