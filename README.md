@@ -22,7 +22,7 @@
 
 ## 书单
 
-#### 2019
+### 2019
 
 - [《A tour of go》](https://tour.go-zh.org/welcome/1)
 - [《Go 语言高级编程》](https://chai2010.cn/advanced-go-programming-book)
@@ -47,7 +47,7 @@
 
 ## 生产力工具
 
-#### 硬件设备
+### 硬件设备
 
 - 笔记本：HP Spectre X360 13.3 2019款
 - 键盘：Massdrop CTRL
@@ -57,14 +57,14 @@
 - 移动硬盘：华为备咖存储 
 - 主机：Xbox 天蝎座 	~~生产力工具~~
 
-#### 在线工具
+### 在线工具
 
 - [Mermade Swagger 2.0 to OpenAPI 3.0.0 converter](https://mermade.org.uk/openapi-converter)		Swagger OpenAPI 在线转换
 - [Create and share beautiful images of your source code](https://carbon.now.sh/)		输入代码生成图片
 - [Matlab 官方 Web 版](https://matlab.mathworks.com/)		用于课程实验、报告等，没必要安装那么胖的桌面应用
 - [Process On](https://processon.com/)		在线绘图工具，有时画图用
 
-#### 服务订阅
+### 服务订阅
 
 - 华为云空间：手机云备份
 - Office 365
@@ -72,9 +72,9 @@
 - Adobe Creative Cloud：也是免费的云空间，一些模板放在上面
 - 网易云音乐、哔哩哔哩会员
 
-#### 软件
+### 软件
 
-###### UWP
+#### UWP
 
 Win 上的软件我会优先在 Mocrosoft Store UWP 找
 
@@ -87,7 +87,7 @@ Win 上的软件我会优先在 Mocrosoft Store UWP 找
 - 微信 UWP
 - Pomy：护眼小工具
 
-###### WIN
+#### WIN
 
 - Jetbrains Goland：主要使用的 IDE 工具
 - Visual Studio Code：辅助使用的文本编辑器
@@ -104,7 +104,7 @@ Win 上的软件我会优先在 Mocrosoft Store UWP 找
 - GifCam：录屏为 Gif
 - BandZip：压缩软件
 
-###### Android
+#### Android
 
 日常使用的软件就不写了，我都是下载的 Play Store 版
 
