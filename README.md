@@ -24,7 +24,6 @@
 
 ### 2019
 
-- [《A tour of go》](https://tour.go-zh.org/welcome/1)
 - [《Go 语言高级编程》](https://chai2010.cn/advanced-go-programming-book)
 - 《平凡的世界》
 - 《The Go Programming Language》
@@ -36,6 +35,7 @@
 - 《写给大家看的设计书》
 - 《深度工作》
 - 《深入理解计算机系统》
+- 《UNIX 环境高级编程》
 - 《人类简史》
 - 《Redis 入门指南》
 - 《Redis 设计与实现》
@@ -51,7 +51,8 @@
 - 键盘：Massdrop CTRL
 - 显示器： LG 29UM59A 21:9（打算换掉了） 
 - 耳机：森海塞尔 IE80S（隔音效果非常好）、赛睿 西伯利亚 X100
-- 手机：华为 Mate 30 Pro 5G
+- 手机：HUAWEI Mate 30 Pro 5G
+- 穿戴：HUAWEI WATCH GT 2
 - 移动硬盘：华为备咖存储 
 - 主机：Xbox 天蝎座 	~~生产力工具~~
 
